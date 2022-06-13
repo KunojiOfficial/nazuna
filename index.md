@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/KunojiOfficial/riruka/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Riruka bot (“we”, “our”, “us” or “bot”) provides a discord bot service subject to the privacy policy described below (“Privacy Policy”).
+By using the bot, you agree to the Policy policy. If you do not agree with the Policy policy, you may not use the Services.
+This service is completely free to use and is in no way affiliated with Discord or Bleach.
+Your privacy is very important to us. It is our policy to respect your privacy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Personal Information
+We collect and process your personal information in order to provide our services.
+Information we may collect about you includes the following:
 
-### Markdown
+Discord identification (“ID”) for your user account.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+All personal information stored in our database is linked to a particular Discord uer ID.
+In order to remove the data permanently, contact the bot owner via e-mail: kunojigames@gmail.com or via Discord: Kunoji#5127
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KunojiOfficial/riruka/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Changes to the policy
+Any changes to the Privacy policy shall go into effect immediately after the change unless stated otherwise.
+We may at any moment change the privacy policy without prior notice. If you use the Service after the changes went into effect you agree to be bound by such modification(s).
