@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Sachi bot (“we”, “our”, “us” or “bot”) provides a discord bot service subject to the privacy policy described below (“Privacy Policy”).
+Nazuna bot (“we”, “our”, “us” or “bot”) provides a discord bot service subject to the privacy policy described below (“Privacy Policy”).
 By using the bot, you agree to the Policy policy. If you do not agree with the Policy policy, you may not use the Services.
 This service is completely free to use and is in no way affiliated with Discord or Bleach.
 Your privacy is very important to us. It is our policy to respect your privacy.
