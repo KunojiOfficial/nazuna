@@ -2,7 +2,7 @@
 
 Nazuna bot (“we”, “our”, “us” or “bot”) provides a discord bot service subject to the privacy policy described below (“Privacy Policy”).
 By using the bot, you agree to the Policy policy. If you do not agree with the Policy policy, you may not use the Services.
-This service is completely free to use and is in no way affiliated with Discord or Bleach.
+This service is completely free to use and is in no way affiliated with Discord.
 Your privacy is very important to us. It is our policy to respect your privacy.
 
 ## Personal Information
@@ -10,8 +10,9 @@ We collect and process your personal information in order to provide our service
 Information we may collect about you includes the following:
 
 Discord identification (“ID”) for your user account.
+Discord username (“@ handle”) for your user account.
 
-All personal information stored in our database is linked to a particular Discord uer ID.
+All personal information stored in our database is linked to a particular Discord user ID.
 In order to remove the data permanently, contact the bot owner via e-mail: kunojigames@gmail.com or via Discord: @kunoji
 
 ## Changes to the policy
