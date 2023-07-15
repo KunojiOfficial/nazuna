@@ -12,7 +12,7 @@ Information we may collect about you includes the following:
 Discord identification (“ID”) for your user account.
 
 All personal information stored in our database is linked to a particular Discord uer ID.
-In order to remove the data permanently, contact the bot owner via e-mail: kunojigames@gmail.com or via Discord: Kunoji#5127
+In order to remove the data permanently, contact the bot owner via e-mail: kunojigames@gmail.com or via Discord: @kunoji
 
 ## Changes to the policy
 Any changes to the Privacy policy shall go into effect immediately after the change unless stated otherwise.
